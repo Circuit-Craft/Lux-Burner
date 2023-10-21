@@ -1,0 +1,4 @@
+gerbers/
+pnp/
+*-backups/
+*-cache
